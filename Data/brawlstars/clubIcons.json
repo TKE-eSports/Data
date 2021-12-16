@@ -1,0 +1,842 @@
+[
+  {
+    "id": 8000000,
+    "imageUrl": "https://cdn.brawlify.com/club/8000000.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#c9ced9", "rgb": [201, 206, 217] },
+        { "hex": "#7c94c4", "rgb": [124, 148, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000001,
+    "imageUrl": "https://cdn.brawlify.com/club/8000001.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#c9cedc", "rgb": [201, 206, 220] },
+        { "hex": "#728cc2", "rgb": [114, 140, 194] }
+      ]
+    }
+  },
+  {
+    "id": 8000002,
+    "imageUrl": "https://cdn.brawlify.com/club/8000002.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#c9cdd7", "rgb": [201, 205, 215] },
+        { "hex": "#7c94c4", "rgb": [124, 148, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000003,
+    "imageUrl": "https://cdn.brawlify.com/club/8000003.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#c0c6d0", "rgb": [192, 198, 208] },
+        { "hex": "#7c94c4", "rgb": [124, 148, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000004,
+    "imageUrl": "https://cdn.brawlify.com/club/8000004.png",
+    "color": {
+      "dominant": { "hex": "#c71b36", "rgb": [199, 27, 54] },
+      "palette": [
+        { "hex": "#c71b36", "rgb": [199, 27, 54] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#d7c7ca", "rgb": [215, 199, 202] },
+        { "hex": "#652834", "rgb": [101, 40, 52] },
+        { "hex": "#d46c84", "rgb": [212, 108, 132] }
+      ]
+    }
+  },
+  {
+    "id": 8000005,
+    "imageUrl": "https://cdn.brawlify.com/club/8000005.png",
+    "color": {
+      "dominant": { "hex": "#c81d37", "rgb": [200, 29, 55] },
+      "palette": [
+        { "hex": "#c81d37", "rgb": [200, 29, 55] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#e0ccd0", "rgb": [224, 204, 208] },
+        { "hex": "#640f1e", "rgb": [100, 15, 30] },
+        { "hex": "#d47c94", "rgb": [212, 124, 148] }
+      ]
+    }
+  },
+  {
+    "id": 8000006,
+    "imageUrl": "https://cdn.brawlify.com/club/8000006.png",
+    "color": {
+      "dominant": { "hex": "#c71b36", "rgb": [199, 27, 54] },
+      "palette": [
+        { "hex": "#c71b36", "rgb": [199, 27, 54] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#d9cacd", "rgb": [217, 202, 205] },
+        { "hex": "#671b29", "rgb": [103, 27, 41] },
+        { "hex": "#d47c94", "rgb": [212, 124, 148] }
+      ]
+    }
+  },
+  {
+    "id": 8000007,
+    "imageUrl": "https://cdn.brawlify.com/club/8000007.png",
+    "color": {
+      "dominant": { "hex": "#c61b35", "rgb": [198, 27, 53] },
+      "palette": [
+        { "hex": "#c61b35", "rgb": [198, 27, 53] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#d3c1c6", "rgb": [211, 193, 198] },
+        { "hex": "#681323", "rgb": [104, 19, 35] },
+        { "hex": "#d4788c", "rgb": [212, 120, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000008,
+    "imageUrl": "https://cdn.brawlify.com/club/8000008.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324ab", "rgb": [147, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#dcccdf", "rgb": [220, 204, 223] },
+        { "hex": "#4c4c4c", "rgb": [76, 76, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000009,
+    "imageUrl": "https://cdn.brawlify.com/club/8000009.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9424ab", "rgb": [148, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#dccbe0", "rgb": [220, 203, 224] },
+        { "hex": "#52145c", "rgb": [82, 20, 92] }
+      ]
+    }
+  },
+  {
+    "id": 8000010,
+    "imageUrl": "https://cdn.brawlify.com/club/8000010.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324ab", "rgb": [147, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#dacfdd", "rgb": [218, 207, 221] },
+        { "hex": "#4c4c4c", "rgb": [76, 76, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000011,
+    "imageUrl": "https://cdn.brawlify.com/club/8000011.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9424ab", "rgb": [148, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#d1c5d3", "rgb": [209, 197, 211] },
+        { "hex": "#4c4c4c", "rgb": [76, 76, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000012,
+    "imageUrl": "https://cdn.brawlify.com/club/8000012.png",
+    "color": {
+      "dominant": { "hex": "#09a21c", "rgb": [9, 162, 28] },
+      "palette": [
+        { "hex": "#09a21c", "rgb": [9, 162, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#cadcce", "rgb": [202, 220, 206] },
+        { "hex": "#7cc48c", "rgb": [124, 196, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000013,
+    "imageUrl": "https://cdn.brawlify.com/club/8000013.png",
+    "color": {
+      "dominant": { "hex": "#09a31c", "rgb": [9, 163, 28] },
+      "palette": [
+        { "hex": "#09a31c", "rgb": [9, 163, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#b6caba", "rgb": [182, 202, 186] },
+        { "hex": "#7cc48c", "rgb": [124, 196, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000014,
+    "imageUrl": "https://cdn.brawlify.com/club/8000014.png",
+    "color": {
+      "dominant": { "hex": "#08a21c", "rgb": [8, 162, 28] },
+      "palette": [
+        { "hex": "#08a21c", "rgb": [8, 162, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#becac1", "rgb": [190, 202, 193] },
+        { "hex": "#7cc78c", "rgb": [124, 199, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000015,
+    "imageUrl": "https://cdn.brawlify.com/club/8000015.png",
+    "color": {
+      "dominant": { "hex": "#08a11c", "rgb": [8, 161, 28] },
+      "palette": [
+        { "hex": "#08a11c", "rgb": [8, 161, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#c3d2c6", "rgb": [195, 210, 198] },
+        { "hex": "#7ccc8c", "rgb": [124, 204, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000016,
+    "imageUrl": "https://cdn.brawlify.com/club/8000016.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb1b", "rgb": [251, 203, 27] },
+        { "hex": "#050404", "rgb": [5, 4, 4] },
+        { "hex": "#9d9d9d", "rgb": [157, 157, 157] },
+        { "hex": "#646464", "rgb": [100, 100, 100] }
+      ]
+    }
+  },
+  {
+    "id": 8000017,
+    "imageUrl": "https://cdn.brawlify.com/club/8000017.png",
+    "color": {
+      "dominant": { "hex": "#db6415", "rgb": [219, 100, 21] },
+      "palette": [
+        { "hex": "#db6415", "rgb": [219, 100, 21] },
+        { "hex": "#fbcb1a", "rgb": [251, 203, 26] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#ab9e96", "rgb": [171, 158, 150] },
+        { "hex": "#646464", "rgb": [100, 100, 100] }
+      ]
+    }
+  },
+  {
+    "id": 8000018,
+    "imageUrl": "https://cdn.brawlify.com/club/8000018.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb19", "rgb": [251, 203, 25] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9a9a9a", "rgb": [154, 154, 154] },
+        { "hex": "#646464", "rgb": [100, 100, 100] }
+      ]
+    }
+  },
+  {
+    "id": 8000019,
+    "imageUrl": "https://cdn.brawlify.com/club/8000019.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb19", "rgb": [251, 203, 25] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#989898", "rgb": [152, 152, 152] },
+        { "hex": "#646464", "rgb": [100, 100, 100] }
+      ]
+    }
+  },
+  {
+    "id": 8000020,
+    "imageUrl": "https://cdn.brawlify.com/club/8000020.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#cfd3dc", "rgb": [207, 211, 220] },
+        { "hex": "#748cc2", "rgb": [116, 140, 194] }
+      ]
+    }
+  },
+  {
+    "id": 8000021,
+    "imageUrl": "https://cdn.brawlify.com/club/8000021.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#acbcd3", "rgb": [172, 188, 211] },
+        { "hex": "#718cc4", "rgb": [113, 140, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000022,
+    "imageUrl": "https://cdn.brawlify.com/club/8000022.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#c81c37", "rgb": [200, 28, 55] },
+        { "hex": "#ddced2", "rgb": [221, 206, 210] },
+        { "hex": "#661b29", "rgb": [102, 27, 41] },
+        { "hex": "#d26f84", "rgb": [210, 111, 132] }
+      ]
+    }
+  },
+  {
+    "id": 8000023,
+    "imageUrl": "https://cdn.brawlify.com/club/8000023.png",
+    "color": {
+      "dominant": { "hex": "#c71b36", "rgb": [199, 27, 54] },
+      "palette": [
+        { "hex": "#c71b36", "rgb": [199, 27, 54] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#dcb1b9", "rgb": [220, 177, 185] },
+        { "hex": "#652633", "rgb": [101, 38, 51] },
+        { "hex": "#d47484", "rgb": [212, 116, 132] }
+      ]
+    }
+  },
+  {
+    "id": 8000024,
+    "imageUrl": "https://cdn.brawlify.com/club/8000024.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324ab", "rgb": [147, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#e0d4e1", "rgb": [224, 212, 225] },
+        { "hex": "#4c4c4c", "rgb": [76, 76, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000025,
+    "imageUrl": "https://cdn.brawlify.com/club/8000025.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324aa", "rgb": [147, 36, 170] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#d8bbdd", "rgb": [216, 187, 221] },
+        { "hex": "#4c4c4c", "rgb": [76, 76, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000026,
+    "imageUrl": "https://cdn.brawlify.com/club/8000026.png",
+    "color": {
+      "dominant": { "hex": "#09a31c", "rgb": [9, 163, 28] },
+      "palette": [
+        { "hex": "#09a31c", "rgb": [9, 163, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#cfdbd2", "rgb": [207, 219, 210] },
+        { "hex": "#7cc48c", "rgb": [124, 196, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000027,
+    "imageUrl": "https://cdn.brawlify.com/club/8000027.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#09a11c", "rgb": [9, 161, 28] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#b1d6b9", "rgb": [177, 214, 185] },
+        { "hex": "#74c484", "rgb": [116, 196, 132] }
+      ]
+    }
+  },
+  {
+    "id": 8000028,
+    "imageUrl": "https://cdn.brawlify.com/club/8000028.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb1a", "rgb": [251, 203, 26] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#aaa39f", "rgb": [170, 163, 159] },
+        { "hex": "#646464", "rgb": [100, 100, 100] }
+      ]
+    }
+  },
+  {
+    "id": 8000029,
+    "imageUrl": "https://cdn.brawlify.com/club/8000029.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb19", "rgb": [251, 203, 25] },
+        { "hex": "#050404", "rgb": [5, 4, 4] },
+        { "hex": "#646464", "rgb": [100, 100, 100] },
+        { "hex": "#9c9c9c", "rgb": [156, 156, 156] }
+      ]
+    }
+  },
+  {
+    "id": 8000030,
+    "imageUrl": "https://cdn.brawlify.com/club/8000030.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#c6cad6", "rgb": [198, 202, 214] },
+        { "hex": "#7c94c4", "rgb": [124, 148, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000031,
+    "imageUrl": "https://cdn.brawlify.com/club/8000031.png",
+    "color": {
+      "dominant": { "hex": "#085bc7", "rgb": [8, 91, 199] },
+      "palette": [
+        { "hex": "#085bc7", "rgb": [8, 91, 199] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#bfc4cf", "rgb": [191, 196, 207] },
+        { "hex": "#162e60", "rgb": [22, 46, 96] },
+        { "hex": "#748cc4", "rgb": [116, 140, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000032,
+    "imageUrl": "https://cdn.brawlify.com/club/8000032.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#c5c9d4", "rgb": [197, 201, 212] },
+        { "hex": "#7c94c4", "rgb": [124, 148, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000033,
+    "imageUrl": "https://cdn.brawlify.com/club/8000033.png",
+    "color": {
+      "dominant": { "hex": "#0c3493", "rgb": [12, 52, 147] },
+      "palette": [
+        { "hex": "#0c3493", "rgb": [12, 52, 147] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0483fb", "rgb": [4, 131, 251] },
+        { "hex": "#c8ccd8", "rgb": [200, 204, 216] },
+        { "hex": "#7c94c4", "rgb": [124, 148, 196] }
+      ]
+    }
+  },
+  {
+    "id": 8000034,
+    "imageUrl": "https://cdn.brawlify.com/club/8000034.png",
+    "color": {
+      "dominant": { "hex": "#c81c37", "rgb": [200, 28, 55] },
+      "palette": [
+        { "hex": "#c81c37", "rgb": [200, 28, 55] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#dbc7cc", "rgb": [219, 199, 204] },
+        { "hex": "#66202d", "rgb": [102, 32, 45] },
+        { "hex": "#d4778c", "rgb": [212, 119, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000035,
+    "imageUrl": "https://cdn.brawlify.com/club/8000035.png",
+    "color": {
+      "dominant": { "hex": "#c91d38", "rgb": [201, 29, 56] },
+      "palette": [
+        { "hex": "#c91d38", "rgb": [201, 29, 56] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#d9c8cc", "rgb": [217, 200, 204] },
+        { "hex": "#661c2a", "rgb": [102, 28, 42] },
+        { "hex": "#dc8c9c", "rgb": [220, 140, 156] }
+      ]
+    }
+  },
+  {
+    "id": 8000036,
+    "imageUrl": "https://cdn.brawlify.com/club/8000036.png",
+    "color": {
+      "dominant": { "hex": "#c71c36", "rgb": [199, 28, 54] },
+      "palette": [
+        { "hex": "#c71c36", "rgb": [199, 28, 54] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#d5c3c7", "rgb": [213, 195, 199] },
+        { "hex": "#641927", "rgb": [100, 25, 39] },
+        { "hex": "#d47c8c", "rgb": [212, 124, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000037,
+    "imageUrl": "https://cdn.brawlify.com/club/8000037.png",
+    "color": {
+      "dominant": { "hex": "#c61a35", "rgb": [198, 26, 53] },
+      "palette": [
+        { "hex": "#c61a35", "rgb": [198, 26, 53] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#dccbce", "rgb": [220, 203, 206] },
+        { "hex": "#631322", "rgb": [99, 19, 34] },
+        { "hex": "#d47c94", "rgb": [212, 124, 148] }
+      ]
+    }
+  },
+  {
+    "id": 8000038,
+    "imageUrl": "https://cdn.brawlify.com/club/8000038.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324ab", "rgb": [147, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#d4c6d6", "rgb": [212, 198, 214] },
+        { "hex": "#4c4c4c", "rgb": [76, 76, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000039,
+    "imageUrl": "https://cdn.brawlify.com/club/8000039.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324ab", "rgb": [147, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#dccede", "rgb": [220, 206, 222] },
+        { "hex": "#514952", "rgb": [81, 73, 82] }
+      ]
+    }
+  },
+  {
+    "id": 8000040,
+    "imageUrl": "https://cdn.brawlify.com/club/8000040.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324ab", "rgb": [147, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#d7cbda", "rgb": [215, 203, 218] },
+        { "hex": "#4c4c4c", "rgb": [76, 76, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000041,
+    "imageUrl": "https://cdn.brawlify.com/club/8000041.png",
+    "color": {
+      "dominant": { "hex": "#040404", "rgb": [4, 4, 4] },
+      "palette": [
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9324ab", "rgb": [147, 36, 171] },
+        { "hex": "#e73fc7", "rgb": [231, 63, 199] },
+        { "hex": "#dbcfde", "rgb": [219, 207, 222] },
+        { "hex": "#4c484c", "rgb": [76, 72, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000042,
+    "imageUrl": "https://cdn.brawlify.com/club/8000042.png",
+    "color": {
+      "dominant": { "hex": "#09a21c", "rgb": [9, 162, 28] },
+      "palette": [
+        { "hex": "#09a21c", "rgb": [9, 162, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#bbcbbf", "rgb": [187, 203, 191] },
+        { "hex": "#7cc48c", "rgb": [124, 196, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000043,
+    "imageUrl": "https://cdn.brawlify.com/club/8000043.png",
+    "color": {
+      "dominant": { "hex": "#09a31c", "rgb": [9, 163, 28] },
+      "palette": [
+        { "hex": "#09a31c", "rgb": [9, 163, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd414", "rgb": [12, 212, 20] },
+        { "hex": "#bfcec2", "rgb": [191, 206, 194] },
+        { "hex": "#7cc48c", "rgb": [124, 196, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000044,
+    "imageUrl": "https://cdn.brawlify.com/club/8000044.png",
+    "color": {
+      "dominant": { "hex": "#09a21c", "rgb": [9, 162, 28] },
+      "palette": [
+        { "hex": "#09a21c", "rgb": [9, 162, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#cddacf", "rgb": [205, 218, 207] },
+        { "hex": "#7cc48c", "rgb": [124, 196, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000045,
+    "imageUrl": "https://cdn.brawlify.com/club/8000045.png",
+    "color": {
+      "dominant": { "hex": "#08a11c", "rgb": [8, 161, 28] },
+      "palette": [
+        { "hex": "#08a11c", "rgb": [8, 161, 28] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#0cd314", "rgb": [12, 211, 20] },
+        { "hex": "#c8d7cb", "rgb": [200, 215, 203] },
+        { "hex": "#7cc48c", "rgb": [124, 196, 140] }
+      ]
+    }
+  },
+  {
+    "id": 8000046,
+    "imageUrl": "https://cdn.brawlify.com/club/8000046.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb1a", "rgb": [251, 203, 26] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9b9b9b", "rgb": [155, 155, 155] },
+        { "hex": "#646464", "rgb": [100, 100, 100] }
+      ]
+    }
+  },
+  {
+    "id": 8000047,
+    "imageUrl": "https://cdn.brawlify.com/club/8000047.png",
+    "color": {
+      "dominant": { "hex": "#050404", "rgb": [5, 4, 4] },
+      "palette": [
+        { "hex": "#050404", "rgb": [5, 4, 4] },
+        { "hex": "#e68417", "rgb": [230, 132, 23] },
+        { "hex": "#fcd314", "rgb": [252, 211, 20] },
+        { "hex": "#dccdc3", "rgb": [220, 205, 195] },
+        { "hex": "#843c0d", "rgb": [132, 60, 13] }
+      ]
+    }
+  },
+  {
+    "id": 8000048,
+    "imageUrl": "https://cdn.brawlify.com/club/8000048.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb1b", "rgb": [251, 203, 27] },
+        { "hex": "#040404", "rgb": [4, 4, 4] },
+        { "hex": "#9e9e9e", "rgb": [158, 158, 158] },
+        { "hex": "#646464", "rgb": [100, 100, 100] }
+      ]
+    }
+  },
+  {
+    "id": 8000049,
+    "imageUrl": "https://cdn.brawlify.com/club/8000049.png",
+    "color": {
+      "dominant": { "hex": "#db6414", "rgb": [219, 100, 20] },
+      "palette": [
+        { "hex": "#db6414", "rgb": [219, 100, 20] },
+        { "hex": "#fbcb1a", "rgb": [251, 203, 26] },
+        { "hex": "#050404", "rgb": [5, 4, 4] },
+        { "hex": "#a19f9e", "rgb": [161, 159, 158] },
+        { "hex": "#5c5c5c", "rgb": [92, 92, 92] }
+      ]
+    }
+  },
+  {
+    "id": 8000050,
+    "imageUrl": "https://cdn.brawlify.com/club/8000050.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d7fb", "rgb": [4, 215, 251] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c8d6dd", "rgb": [200, 214, 221] },
+        { "hex": "#04344c", "rgb": [4, 52, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000051,
+    "imageUrl": "https://cdn.brawlify.com/club/8000051.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d7fb", "rgb": [4, 215, 251] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c1d1d9", "rgb": [193, 209, 217] },
+        { "hex": "#04344c", "rgb": [4, 52, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000052,
+    "imageUrl": "https://cdn.brawlify.com/club/8000052.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d7fb", "rgb": [4, 215, 251] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c9d1d5", "rgb": [201, 209, 213] },
+        { "hex": "#04344c", "rgb": [4, 52, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000053,
+    "imageUrl": "https://cdn.brawlify.com/club/8000053.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d7fb", "rgb": [4, 215, 251] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c5d3da", "rgb": [197, 211, 218] },
+        { "hex": "#04344c", "rgb": [4, 52, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000054,
+    "imageUrl": "https://cdn.brawlify.com/club/8000054.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d7fb", "rgb": [4, 215, 251] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#cbd7dc", "rgb": [203, 215, 220] },
+        { "hex": "#043450", "rgb": [4, 52, 80] }
+      ]
+    }
+  },
+  {
+    "id": 8000055,
+    "imageUrl": "https://cdn.brawlify.com/club/8000055.png",
+    "color": {
+      "dominant": { "hex": "#05d6fa", "rgb": [5, 214, 250] },
+      "palette": [
+        { "hex": "#05d6fa", "rgb": [5, 214, 250] },
+        { "hex": "#046c9b", "rgb": [4, 108, 155] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#a1a1a1", "rgb": [161, 161, 161] },
+        { "hex": "#04344c", "rgb": [4, 52, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000056,
+    "imageUrl": "https://cdn.brawlify.com/club/8000056.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d6fa", "rgb": [4, 214, 250] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c1cdd2", "rgb": [193, 205, 210] },
+        { "hex": "#04344c", "rgb": [4, 52, 76] }
+      ]
+    }
+  },
+  {
+    "id": 8000057,
+    "imageUrl": "https://cdn.brawlify.com/club/8000057.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d6fa", "rgb": [4, 214, 250] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c3cfd5", "rgb": [195, 207, 213] },
+        { "hex": "#04344f", "rgb": [4, 52, 79] }
+      ]
+    }
+  },
+  {
+    "id": 8000058,
+    "imageUrl": "https://cdn.brawlify.com/club/8000058.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d6fa", "rgb": [4, 214, 250] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c7d3d9", "rgb": [199, 211, 217] },
+        { "hex": "#04344f", "rgb": [4, 52, 79] }
+      ]
+    }
+  },
+  {
+    "id": 8000059,
+    "imageUrl": "https://cdn.brawlify.com/club/8000059.png",
+    "color": {
+      "dominant": { "hex": "#046c9c", "rgb": [4, 108, 156] },
+      "palette": [
+        { "hex": "#046c9c", "rgb": [4, 108, 156] },
+        { "hex": "#04d6fa", "rgb": [4, 214, 250] },
+        { "hex": "#040505", "rgb": [4, 5, 5] },
+        { "hex": "#c9d4d9", "rgb": [201, 212, 217] },
+        { "hex": "#04344c", "rgb": [4, 52, 76] }
+      ]
+    }
+  }
+]
